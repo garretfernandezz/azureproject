@@ -1,0 +1,9 @@
+{
+	"name": "df-AzureProject87879",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4b079c2-80f5-4529-babf-5fa6c0cf7824",
+		"tenantId": "1c60300d-cfdc-4668-a96b-f52dedf0ed6b"
+	}
+}
